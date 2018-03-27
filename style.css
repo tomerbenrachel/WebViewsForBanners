@@ -1,0 +1,14 @@
+html {
+	text-align: center;
+    font-size : 5em;
+}
+
+button {
+    font-size : 0.5em;
+    margin-top : 5%;
+}
+
+img {
+	position: absolute;
+	left: 50%;
+}
